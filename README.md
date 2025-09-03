@@ -39,15 +39,16 @@ I'm a **Computer Science student** at Dalhousie University with a strong interes
 
 ### [**eParkr**](#)
 > A parking spot marketplace where drivers can book short-term or long-term parking while owners get paid automatically.  
-**Tech Used:** React, Node.js, Firebase, PostgreSQL, Stripe  
+**Tech Used:** React, Node.js, Firebase, PostgreSQL, Stripe
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### [**UFC Data Analysis & Machine Learning Model**](#)
 > A machine learning model that I am building to predict the winners of UFC fights combining both my interest in the sport and my technical skills
-- Building with **Python**, **PostgreSQL**, **Tableau**, and **Scikit**.
+**Tech Used:** Python, Pandas, Scikit-learn, Tableau  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -87,4 +88,4 @@ I'm a **Computer Science student** at Dalhousie University with a strong interes
 
 ---
 
-> “Building software that solves real problems while keeping it clean, fast, and reliable.”
+> “Building tech that solves real problems while keeping it clean, fast, and reliable.”
