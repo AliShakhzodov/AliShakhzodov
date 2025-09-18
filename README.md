@@ -65,8 +65,8 @@ I'm a **Computer Science student** at Dalhousie University with a strong interes
 
 ---
 
-### [**Grocery List PWA**](#)
-> A **real-time**, **offline-first** grocery list app for families with PWA support and notifications. Currently unavailable for public view as it is used for my family's personal needs.
+### [**Grocery List and To-do List PWA**](#)
+> A **real-time**, **offline-first** grocery and to-do list app for families with PWA support.
 **Tech Used:** React, Firebase, Firestore  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
